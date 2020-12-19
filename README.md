@@ -2,23 +2,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechiragjogani&label=Views&color=blue&style=plastic" alt="thechiragjogani" /> </p>
 
-<a href="https://twitter.com/thechiragjogani">
+<a href="https://twitter.com/thechiragjogani" target="blank">
   <img align="left" alt="Chirag's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://linkedin.com/in/thechiragjogani">
+<a href="https://linkedin.com/in/thechiragjogani" target="blank">
   <img align="left" alt="Chirag's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/thechiragjogani">
+<a href="https://github.com/thechiragjogani" target="blank">
   <img align="left" alt="Chirag's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/thechiragjogani">
+<a href="https://t.me/thechiragjogani" target="blank">
   <img align="left" alt="Chirag's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/thechiragjogani/">
+<a href="https://instagram.com/thechiragjogani/" target="blank">
   <img align="left" alt="Chirag's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/thechiragjogani/">
+<a href="https://www.facebook.com/thechiragjogani/" target="blank">
   <img align="left" alt="Chirag's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -49,15 +49,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
 
-<a href="https://github.com/thechiragjogani">
+<a href="https://github.com/thechiragjogani" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragjogani&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/thechiragjogani">
+<a href="https://github.com/thechiragjogani" target="blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thechiragjogani&show_icons=true&theme=light&line_height=27" alt="Chirag's github stats"/>
 </a>
 
-<a href="https://github.com/thechiragjogani/C-Projects">
+<a href="https://github.com/thechiragjogani/C-Projects" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thechiragjogani&repo=C-Projects&theme=light" />
 
 </a>
