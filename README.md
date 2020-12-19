@@ -52,8 +52,14 @@
 <a href="https://github.com/thechiragjogani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragjogani&theme=light&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/thechiragjogani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thechiragjogani&show_icons=true&theme=light&line_height=27" alt="Chirag's github stats"/>
+</a>
+
+<a href="https://github.com/thechiragjogani/C-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thechiragjogani&repo=C-Projects&theme=light" />
+
 </a>
 
 <div align="center">
