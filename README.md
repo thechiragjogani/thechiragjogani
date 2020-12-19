@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/thechiragjogani).
 - 🤔 I’m looking for help with path guidance.
 - 💬 Ask me about cyber security or any tech related stuff.
-- 📫 How to reach me: [Twitter - @thechiragjogani](https://twitter.com/thechiragjogani) , [Email - chiragjogani@protonmail.com](mailto:chiragjogani@protonmail.com)
+- 📫 How to reach me: [Email - chiragjogani@protonmail.com](mailto:chiragjogani@protonmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours improving myself everyday.
 
