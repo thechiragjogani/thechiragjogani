@@ -26,13 +26,13 @@
 <br/>
 
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning more about Cyber Security.
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning more about Web Development.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/thechiragjogani).
-- 🤔 I’m looking for help with path guidance.
-- 💬 Ask me about cyber security or any tech related stuff.
-- 📫 How to reach me: [Email - chiragjogani@protonmail.com](mailto:chiragjogani@protonmail.com)
-- 😄 Pronouns: He/His
+- 🤔 I’m looking for help with nothing.
+- 💬 Ask me about cyber security or any IT related stuff.
+- 📫 How to reach me: [chiragjogani@protonmail.com](mailto:chiragjogani@protonmail.com).
+- 😄 Pronouns: He/His/Mr.
 - ⚡ Fun fact: I spend almost 12 hours improving myself everyday.
 
 [![Twitter: thechiragjogani](https://img.shields.io/twitter/follow/thechiragjogani?style=social)](https://twitter.com/thechiragjogani)
