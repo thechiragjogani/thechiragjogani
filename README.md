@@ -26,14 +26,13 @@
 <br/>
 
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning more about Web Development.
+- 🔭 I’m currently working on building my penetration testing skills.
+- 🌱 I’m currently learning more about Vim language.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/thechiragjogani).
-- 🤔 I’m looking for help with nothing.
 - 💬 Ask me about cyber security or any IT related stuff.
 - 📫 How to reach me: [chiragjogani@protonmail.com](mailto:chiragjogani@protonmail.com).
 - 😄 Pronouns: He/His/Mr.
-- ⚡ Fun fact: I spend almost 12 hours improving myself everyday.
+- ⚡ Fun fact: I spend almost 12 hours on improving myself everyday.
 
 [![Twitter: thechiragjogani](https://img.shields.io/twitter/follow/thechiragjogani?style=social)](https://twitter.com/thechiragjogani)
 [![Linkedin: thechiragjogani](https://img.shields.io/badge/-thechiragjogani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragjogani/)](https://www.linkedin.com/in/thechiragjogani/)
