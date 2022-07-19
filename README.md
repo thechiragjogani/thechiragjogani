@@ -64,3 +64,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragjogani&theme=light&hide_langs_below=1" />
 </a>
 </div>
+
+<script src="https://tryhackme.com/badge/1145801"></script>
