@@ -67,5 +67,5 @@
 <br/>
 <br/>
 <a href="https://github.com/thechiragjogani" target="blank">
-  <img align="left" alt="Chirag's TryHackMe" width="22px" src="https://tryhackme.com/badge/1145801" />
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/chiragjogani.png" alt="Chirag's TryHackMe"/>
 </a>
