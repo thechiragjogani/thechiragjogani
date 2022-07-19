@@ -63,7 +63,8 @@
 <a href="https://github.com/thechiragjogani" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragjogani&theme=light&hide_langs_below=1" />
 </a>
-
+<br/>
+<br/>
 <a href="https://github.com/thechiragjogani" target="blank">
   <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/chiragjogani.png" alt="Chirag's TryHackMe"/>
 </a>
